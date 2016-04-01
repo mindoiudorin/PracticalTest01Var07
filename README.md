@@ -1,1 +1,2 @@
-# PracticalTest01Var07
+Mindoiu Dorin Marian
+342C3
